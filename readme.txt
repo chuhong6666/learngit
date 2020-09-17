@@ -1,2 +1,2 @@
-git is useful for me. 
-i like useing git for my work.
+Git is a version control system.
+Git is free software.
